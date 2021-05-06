@@ -62,7 +62,7 @@ def index():
 ```
 - <img src="images/Step3.PNG" alt="Step 3 : File Structure">
 - Then, type following commands in powershell or terminal:
-    - ``$env:FLASK_APP=app``
+    - ``$env:FLASK_APP='app'``
     - ``flask run``
     - <img src="images/Step3.1.PNG" alt="Step 3..1">
 - Open the URL http://127.0.0.1:5000/ in your browser to run the application.
